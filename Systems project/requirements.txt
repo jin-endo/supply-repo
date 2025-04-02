@@ -1,0 +1,5 @@
+Python 3.8+
+Dependencies:
+- streamlit==1.32.0
+- pandas==2.2.1
+- validators==0.22.0

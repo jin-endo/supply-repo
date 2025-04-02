@@ -1,0 +1,32 @@
+[
+  {
+    "name": "TV",
+    "category": "Electronics",
+    "quantity": 5,
+    "price": 58.99,
+    "description": "for use in the room",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSiKc0hq29H9MFNsH9eudqwzcXsTchT2vyvIEZ7lMUGKr-WZWfyfi6zsVLZ15wXdN51pcnjn5olpnOI1vt6CtUIXyxtj4IpwYKCEe_wX8xm",
+    "date_added": "2025-03-31",
+    "id": 2
+  },
+  {
+    "name": "mice ",
+    "category": "Accessories",
+    "quantity": 7,
+    "price": 15.0,
+    "description": "anything",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSFvuKs-pt7EzJ_DgYdu5LZE3tFfX4RvVngXoNfzDIgWGQ2cr8jn8rcLKWosvLZGwqKQA385WVYY2EZ4eP_QHszwaxEsYKFAZhoRUTGcGkYAmB9FMcfNSMx92y1JTlZNC-5qjNMCZ90HPY&usqp=CAc",
+    "date_added": "2025-03-31 18:13",
+    "id": 4
+  },
+  {
+    "name": "Pens",
+    "category": "Office Supplies",
+    "quantity": 50,
+    "price": 0.49,
+    "description": "Pens for the office",
+    "image_url": "https://www.pensxpress.com/cdn/shop/products/classic-matte-twist-assorted-black-ink-28491468931160.jpg?v=1628349718&width=620",
+    "date_added": "2025-03-31 18:56",
+    "id": 5
+  }
+]
